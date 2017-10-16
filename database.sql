@@ -1,0 +1,7 @@
+CREATE DATABASE db_feria_vocacional;
+
+CREATE TABLE tb_user(
+id INTEGER AUTO_INCREMENT,
+email VARCHAR(300),
+CONSTRAINT PRIMARY KEY(id)
+);
