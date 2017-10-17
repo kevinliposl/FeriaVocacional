@@ -22,11 +22,7 @@
         <link rel="stylesheet" href="public/css/font-icons.css" type="text/css" />
         <link rel="stylesheet" href="public/css/animate.css" type="text/css" />
         <link rel="stylesheet" href="public/css/magnific-popup.css" type="text/css" />
-        <link rel="stylesheet" href="public/css/components/bs-select.css" type="text/css" />
-        <link rel="stylesheet" href="public/css/select2.css" type="text/css" />
-        <link rel="stylesheet" href="public/css/components/bs-editable.css" type="text/css" />
         <link rel="stylesheet" href="public/css/typeahead.js-bootstrap.css" type="text/css"/>
-        <link rel="stylesheet" href="public/css/components/bs-select.css" type="text/css" />
         <link rel="stylesheet" href="public/css/responsive.css" type="text/css" />
 
         <!-- JS
