@@ -1,4 +1,5 @@
 <?php
+
 include_once 'public/headerUser.php';
 ?>
 
@@ -41,20 +42,20 @@ include_once 'public/headerUser.php';
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn">
-                        <a href="#"><img src="public/images/icons/database.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/html.png" alt="Responsive Layout"></a>
                     </div>
-                    <h3>Titulo</h3>
-                    <p>Descripcion</p>
+                    <h3>Programacion en HTML</h3>
+                    <p>Soy una descripcion detallada</p>
                 </div>
             </div>
 
             <div class="col_one_third col_last">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="400">
-                        <a href="#"><img src="public/images/icons/server.png" alt="Powerful Performance"></a>
+                        <a href="#"><img src="public/images/icons/monitor.png" alt="Powerful Performance"></a>
                     </div>
-                    <h3>Titulo</h3>
-                    <p>Descripcion</p>
+                    <h3>Soy un monitor</h3>
+                    <p>Soy una descripcion detallada</p>
                 </div>
             </div>
 
@@ -62,10 +63,10 @@ include_once 'public/headerUser.php';
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
-                        <a href="#"><img src="public/images/icons/browser.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/css.png" alt="Responsive Layout"></a>
                     </div>
-                    <h3>Titulo</h3>
-                    <p>Descripcion</p>
+                    <h3>Modelado de Paginas Web</h3>
+                    <p>Soy una descripcion detallada</p>
                 </div>
             </div>
 
@@ -88,8 +89,8 @@ include_once 'public/headerUser.php';
                     <div class="fbox-icon" data-animate="bounceIn">
                         <a href="#"><img src="public/images/icons/database.png" alt="Responsive Layout"></a>
                     </div>
-                    <h3>Responsive Layout</h3>
-                    <p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
+                    <h3>Titulo</h3>
+                    <p>Descripcion</p>
                 </div>
             </div>
 
@@ -98,8 +99,8 @@ include_once 'public/headerUser.php';
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="200">
                         <a href="#"><img src="public/images/icons/smartphone.png" alt="Retina Graphics"></a>
                     </div>
-                    <h3>Retina Graphics</h3>
-                    <p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
+                    <h3>Titulo</h3>
+                    <p>Descripcion</p>
                 </div>
             </div>
 
@@ -108,40 +109,8 @@ include_once 'public/headerUser.php';
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="400">
                         <a href="#"><img src="public/images/icons/server.png" alt="Powerful Performance"></a>
                     </div>
-                    <h3>Powerful Performance</h3>
-                    <p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
-                </div>
-            </div>
-
-            <div class="clear"></div>
-
-            <div class="col_one_third">
-                <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
-                        <a href="#"><img src="public/images/icons/browser.png" alt="Responsive Layout"></a>
-                    </div>
-                    <h3>Endless Possibilities</h3>
-                    <p>You have complete easy control on each &amp; every element that provides endless customization possibilities.</p>
-                </div>
-            </div>
-
-            <div class="col_one_third">
-                <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="800">
-                        <a href="#"><img src="public/images/icons/features/tick.png" alt="Retina Graphics"></a>
-                    </div>
-                    <h3>Light &amp; Dark Scheme</h3>
-                    <p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
-                </div>
-            </div>
-
-            <div class="col_one_third col_last">
-                <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="1000">
-                        <a href="#"><img src="public/images/icons/features/tools.png" alt="Powerful Performance"></a>
-                    </div>
-                    <h3>Customizable Fonts</h3>
-                    <p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
+                    <h3>Titulo</h3>
+                    <p>Descripcion</p>
                 </div>
             </div>
 
@@ -161,11 +130,11 @@ include_once 'public/headerUser.php';
 
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn">
-                        <a href="#"><img src="public/images/icons/database.png" alt="Responsive Layout"></a>
+                    <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
+                        <a href="#"><img src="public/images/icons/browser.png" alt="Responsive Layout"></a>
                     </div>
-                    <h3>Responsive Layout</h3>
-                    <p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
+                    <h3>Titulo</h3>
+                    <p>Descripcion</p>
                 </div>
             </div>
 
@@ -174,8 +143,8 @@ include_once 'public/headerUser.php';
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="200">
                         <a href="#"><img src="public/images/icons/smartphone.png" alt="Retina Graphics"></a>
                     </div>
-                    <h3>Retina Graphics</h3>
-                    <p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
+                    <h3>Titulo</h3>
+                    <p>Descripcion</p>
                 </div>
             </div>
 
@@ -184,40 +153,8 @@ include_once 'public/headerUser.php';
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="400">
                         <a href="#"><img src="public/images/icons/server.png" alt="Powerful Performance"></a>
                     </div>
-                    <h3>Powerful Performance</h3>
-                    <p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
-                </div>
-            </div>
-
-            <div class="clear"></div>
-
-            <div class="col_one_third">
-                <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
-                        <a href="#"><img src="public/images/icons/browser.png" alt="Responsive Layout"></a>
-                    </div>
-                    <h3>Endless Possibilities</h3>
-                    <p>You have complete easy control on each &amp; every element that provides endless customization possibilities.</p>
-                </div>
-            </div>
-
-            <div class="col_one_third">
-                <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="800">
-                        <a href="#"><img src="public/images/icons/features/tick.png" alt="Retina Graphics"></a>
-                    </div>
-                    <h3>Light &amp; Dark Scheme</h3>
-                    <p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
-                </div>
-            </div>
-
-            <div class="col_one_third col_last">
-                <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="1000">
-                        <a href="#"><img src="public/images/icons/features/tools.png" alt="Powerful Performance"></a>
-                    </div>
-                    <h3>Customizable Fonts</h3>
-                    <p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
+                    <h3>Titulo</h3>
+                    <p>Descripcion.</p>
                 </div>
             </div>
 
