@@ -44,3 +44,40 @@
         ============================================= -->
         <div id="wrapper" class="clearfix">
 
+            <!-- Header
+            ============================================= -->
+            <header id="header" class="transparent-header page-section dark">
+
+                <div id="header-wrap">
+
+                    <div class="container clearfix">
+
+                        <div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+                        <!-- Logo
+                        ============================================= -->
+                        <div id="logo">
+                            <a href="?" class="standard-logo" data-dark-logo="public/images/logo-dark.png"><img src="public/images/logo.png" alt="Canvas Logo"></a>
+                            <a href="?" class="retina-logo" data-dark-logo="public/images/logo-dark@2x.png"><img src="public/images/logo@2x.png" alt="Canvas Logo"></a>
+                        </div><!-- #logo end -->
+
+                        <!-- Primary Navigation
+                        ============================================= -->
+                        <nav id="primary-menu">
+
+                            <ul class="one-page-menu">
+                                <li class="current"><a href="#" data-href="#header"><div>Home</div></a></li>
+                                <li><a href="#" data-href="#section-features"><div>Features</div></a></li>
+                                <li><a href="#" data-href="#section-pricing"><div>Pricing</div></a></li>
+                                <li><a href="#" data-href="#section-testimonials"><div>Testimonials</div></a></li>
+                                <li><a href="#" data-href="#section-specs"><div>Specifications</div></a></li>
+                                <li><a href="#" data-href="#section-buy"><div>Buy Now</div></a></li>
+                            </ul>
+
+                        </nav><!-- #primary-menu end -->
+
+                    </div>
+
+                </div>
+
+            </header><!-- #header end -->

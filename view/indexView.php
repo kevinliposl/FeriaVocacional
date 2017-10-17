@@ -1,15 +1,8 @@
 <?php
-
-$session = SSession::getInstance();
-
-if (isset($session->email)) {
-    //include_once 'public/headerUser.php';
-} else {
-    include_once 'public/header.php';
-}
+include_once 'public/headerUser.php';
 ?>
 
-<section id="slider" class="slider-parallax dark full-screen" style="background: url(images/landing/landing1.jpg) center;">
+<section id="slider" class="slider-parallax dark full-screen" style="background: url(public/images/landing/landing1.jpg) center;">
 
     <div class="slider-parallax-inner">
 
@@ -18,26 +11,9 @@ if (isset($session->email)) {
             <div class="vertical-middle">
 
                 <div class="heading-block center nobottomborder">
-                    <h1 data-animate="fadeInUp">It's your time to <strong>create</strong> Landing Pages for <strong>FREE</strong></h1>
+                    <h1 data-animate="fadeInUp">It's your time to create Landing Pages for FREE</h1>
                     <span data-animate="fadeInUp" data-delay="300">Building a Landing Page was never so Easy &amp; Interactive.</span>
                 </div>
-
-                <form action="#" method="post" role="form" class="landing-wide-form clearfix">
-                    <div class="col_four_fifth nobottommargin">
-                        <div class="col_one_third nobottommargin">
-                            <input type="text" class="form-control input-lg not-dark" value="" placeholder="Your Name*">
-                        </div>
-                        <div class="col_one_third nobottommargin">
-                            <input type="email" class="form-control input-lg not-dark" value="" placeholder="Your Email*">
-                        </div>
-                        <div class="col_one_third col_last nobottommargin">
-                            <input type="password" class="form-control input-lg not-dark" value="" placeholder="Choose Password*">
-                        </div>
-                    </div>
-                    <div class="col_one_fifth col_last nobottommargin">
-                        <button class="btn btn-lg btn-danger btn-block nomargin" value="submit" type="submit" style="">START FREE TRIAL</button>
-                    </div>
-                </form>
 
             </div>
 
@@ -65,7 +41,7 @@ if (isset($session->email)) {
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn">
-                        <a href="#"><img src="images/icons/features/responsive.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/features/responsive.png" alt="Responsive Layout"></a>
                     </div>
                     <h3>Responsive Layout</h3>
                     <p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
@@ -75,7 +51,7 @@ if (isset($session->email)) {
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="200">
-                        <a href="#"><img src="images/icons/features/retina.png" alt="Retina Graphics"></a>
+                        <a href="#"><img src="public/images/icons/features/retina.png" alt="Retina Graphics"></a>
                     </div>
                     <h3>Retina Graphics</h3>
                     <p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
@@ -85,7 +61,7 @@ if (isset($session->email)) {
             <div class="col_one_third col_last">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="400">
-                        <a href="#"><img src="images/icons/features/performance.png" alt="Powerful Performance"></a>
+                        <a href="#"><img src="public/images/icons/features/performance.png" alt="Powerful Performance"></a>
                     </div>
                     <h3>Powerful Performance</h3>
                     <p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
@@ -97,7 +73,7 @@ if (isset($session->email)) {
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
-                        <a href="#"><img src="images/icons/features/flag.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/features/flag.png" alt="Responsive Layout"></a>
                     </div>
                     <h3>Endless Possibilities</h3>
                     <p>You have complete easy control on each &amp; every element that provides endless customization possibilities.</p>
@@ -107,7 +83,7 @@ if (isset($session->email)) {
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="800">
-                        <a href="#"><img src="images/icons/features/tick.png" alt="Retina Graphics"></a>
+                        <a href="#"><img src="public/images/icons/features/tick.png" alt="Retina Graphics"></a>
                     </div>
                     <h3>Light &amp; Dark Scheme</h3>
                     <p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
@@ -117,7 +93,7 @@ if (isset($session->email)) {
             <div class="col_one_third col_last">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="1000">
-                        <a href="#"><img src="images/icons/features/tools.png" alt="Powerful Performance"></a>
+                        <a href="#"><img src="public/images/icons/features/tools.png" alt="Powerful Performance"></a>
                     </div>
                     <h3>Customizable Fonts</h3>
                     <p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
@@ -129,7 +105,7 @@ if (isset($session->email)) {
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="1200">
-                        <a href="#"><img src="images/icons/features/map.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/features/map.png" alt="Responsive Layout"></a>
                     </div>
                     <h3>Responsive Layout</h3>
                     <p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
@@ -139,7 +115,7 @@ if (isset($session->email)) {
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="1400">
-                        <a href="#"><img src="images/icons/features/seo.png" alt="Retina Graphics"></a>
+                        <a href="#"><img src="public/images/icons/features/seo.png" alt="Retina Graphics"></a>
                     </div>
                     <h3>Retina Graphics</h3>
                     <p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
@@ -149,7 +125,7 @@ if (isset($session->email)) {
             <div class="col_one_third col_last">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="1600">
-                        <a href="#"><img src="images/icons/features/support.png" alt="Powerful Performance"></a>
+                        <a href="#"><img src="public/images/icons/features/support.png" alt="Powerful Performance"></a>
                     </div>
                     <h3>Powerful Performance</h3>
                     <p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
@@ -216,7 +192,7 @@ if (isset($session->email)) {
                     <li>
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="images/testimonials/1.jpg" alt="Customer Testimonails"></a>
+                                <a href="#"><img src="public/images/testimonials/1.jpg" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
                                 <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum repellendus!</p>
@@ -230,7 +206,7 @@ if (isset($session->email)) {
                     <li>
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="images/testimonials/2.jpg" alt="Customer Testimonails"></a>
+                                <a href="#"><img src="public/images/testimonials/2.jpg" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
                                 <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
@@ -244,7 +220,7 @@ if (isset($session->email)) {
                     <li>
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="images/testimonials/7.jpg" alt="Customer Testimonails"></a>
+                                <a href="#"><img src="public/images/testimonials/7.jpg" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
                                 <p>Fugit officia dolor sed harum excepturi ex iusto magnam asperiores molestiae qui natus obcaecati facere sint amet.</p>
@@ -258,7 +234,7 @@ if (isset($session->email)) {
                     <li>
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="images/testimonials/3.jpg" alt="Customer Testimonails"></a>
+                                <a href="#"><img src="public/images/testimonials/3.jpg" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
                                 <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
@@ -272,7 +248,7 @@ if (isset($session->email)) {
                     <li>
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="images/testimonials/4.jpg" alt="Customer Testimonails"></a>
+                                <a href="#"><img src="public/images/testimonials/4.jpg" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, perspiciatis illum totam dolore deleniti labore.</p>
@@ -286,7 +262,7 @@ if (isset($session->email)) {
                     <li>
                         <div class="testimonial">
                             <div class="testi-image">
-                                <a href="#"><img src="images/testimonials/8.jpg" alt="Customer Testimonails"></a>
+                                <a href="#"><img src="public/images/testimonials/8.jpg" alt="Customer Testimonails"></a>
                             </div>
                             <div class="testi-content">
                                 <p>Porro dolorem saepe reiciendis nihil minus neque. Ducimus rem necessitatibus repellat laborum nemo quod.</p>
@@ -328,7 +304,7 @@ if (isset($session->email)) {
 
                     <div id="snav-content1">
                         <h3>Ultra Responsive Template</h3>
-                        <img class="alignright img-responsive" src="images/landing/responsive.png" alt="">
+                        <img class="alignright img-responsive" src="public/images/landing/responsive.png" alt="">
 
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, ex, inventore, tenetur, repellat ipsam soluta libero amet nam aspernatur perspiciatis quos praesentium et debitis ea odit enim illo aliquid eligendi numquam neque. Ipsum, voluptatibus, perspiciatis a quam aliquid cumque cupiditate id ipsa tempora eveniet. Cupiditate, necessitatibus, consequatur odio. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, vitae, laboriosam libero nihil labore hic modi? Odit, veritatis nulla molestiae!
                     </div>
@@ -344,7 +320,7 @@ if (isset($session->email)) {
                     </div>
 
                     <div id="snav-content4">
-                        <img class="alignleft img-responsive" src="images/landing/bootstrap.png" alt="">
+                        <img class="alignleft img-responsive" src="public/images/landing/bootstrap.png" alt="">
                         <h3>Bootstrap v3.2.0 Compatiable</h3>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, nostrum, dolores id quo nam repudiandae ad culpa architecto minima nemo eaque soluta nulla laborum neque provident saepe facilis expedita numquam quas alias in perferendis accusamus ipsam blanditiis sit voluptatem temporibus vero error veritatis repellat eos reiciendis repellendus quam. Officia dicta ipsam nostrum aperiam. Dolor, expedita enim modi nostrum commodi sint architecto aliquam aut mollitia repellendus deserunt quaerat aspernatur aperiam voluptatibus consequatur rerum consequuntur.
                     </div>
