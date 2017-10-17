@@ -1,6 +1,5 @@
 <?php
-
-include_once 'public/header.php';
+include_once 'public/headerUser.php';
 ?>
 
 <section id="slider" class="slider-parallax swiper_wrapper full-screen">
