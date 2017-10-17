@@ -35,7 +35,7 @@
 
         <!-- Document Title
         ============================================= -->
-        <title>Fusi&oacute;n Academia de M&uacute;sica</title>
+        <title>Feria Vocacional Informatica Emplesarial</title>
 
     </head>
     <body class="stretched">

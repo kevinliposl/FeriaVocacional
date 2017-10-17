@@ -35,7 +35,7 @@
 
         <!-- Document Title
         ============================================= -->
-        <title>Fusi&oacute;n Academia de M&uacute;sica</title>
+        <title>Feria Vocacional Informatica Emplesarial</title>
 
     </head>
     <body class="stretched">
@@ -66,12 +66,12 @@
                         <nav id="primary-menu">
 
                             <ul class="one-page-menu">
-                                <li class="current"><a href="#" data-href="#header"><div>Home</div></a></li>
+                                <li class="current"><a href="#" data-href="#header"><div>Inicio</div></a></li>
                                 <li><a href="#" data-href="#section-features"><div>Features</div></a></li>
-                                <li><a href="#" data-href="#section-pricing"><div>Pricing</div></a></li>
+                                <li><a href="#" data-href="#section-redes"><div>Redes</div></a></li>
                                 <li><a href="#" data-href="#section-testimonials"><div>Testimonials</div></a></li>
                                 <li><a href="#" data-href="#section-specs"><div>Specifications</div></a></li>
-                                <li><a href="#" data-href="#section-buy"><div>Buy Now</div></a></li>
+                                <li><a href="?controller=User&action=signOff" ><div>Cerrar Sesi&oacute;n</div></a></li>
                             </ul>
 
                         </nav><!-- #primary-menu end -->

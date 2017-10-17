@@ -1,4 +1,5 @@
 <?php
+
 include_once 'public/headerUser.php';
 ?>
 
@@ -11,8 +12,8 @@ include_once 'public/headerUser.php';
             <div class="vertical-middle">
 
                 <div class="heading-block center nobottomborder">
-                    <h1 data-animate="fadeInUp">It's your time to create Landing Pages for FREE</h1>
-                    <span data-animate="fadeInUp" data-delay="300">Building a Landing Page was never so Easy &amp; Interactive.</span>
+                    <h1 data-animate="fadeInUp">Feria Vocacional de Informatica Emplesarial</h1>
+                    <span data-animate="fadeInUp" data-delay="300">Explora y conoce acerca de la carrera</span>
                 </div>
 
             </div>
@@ -34,14 +35,14 @@ include_once 'public/headerUser.php';
         <div class="container clearfix">
 
             <div id="section-features" class="heading-block title-center page-section">
-                <h2>Features Overview</h2>
-                <span>Some of the Features that are gonna blow your mind off</span>
+                <h2>Web</h2>
+                <span>Hola soy descripcion</span>
             </div>
 
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn">
-                        <a href="#"><img src="public/images/icons/features/responsive.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/database.png" alt="Responsive Layout"></a>
                     </div>
                     <h3>Responsive Layout</h3>
                     <p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
@@ -51,7 +52,7 @@ include_once 'public/headerUser.php';
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="200">
-                        <a href="#"><img src="public/images/icons/features/retina.png" alt="Retina Graphics"></a>
+                        <a href="#"><img src="public/images/icons/smartphone.png" alt="Retina Graphics"></a>
                     </div>
                     <h3>Retina Graphics</h3>
                     <p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
@@ -61,7 +62,7 @@ include_once 'public/headerUser.php';
             <div class="col_one_third col_last">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="400">
-                        <a href="#"><img src="public/images/icons/features/performance.png" alt="Powerful Performance"></a>
+                        <a href="#"><img src="public/images/icons/server.png" alt="Powerful Performance"></a>
                     </div>
                     <h3>Powerful Performance</h3>
                     <p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
@@ -73,7 +74,7 @@ include_once 'public/headerUser.php';
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
                     <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
-                        <a href="#"><img src="public/images/icons/features/flag.png" alt="Responsive Layout"></a>
+                        <a href="#"><img src="public/images/icons/browser.png" alt="Responsive Layout"></a>
                     </div>
                     <h3>Endless Possibilities</h3>
                     <p>You have complete easy control on each &amp; every element that provides endless customization possibilities.</p>
@@ -102,10 +103,22 @@ include_once 'public/headerUser.php';
 
             <div class="clear"></div>
 
+            <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
+
+            <div class="clear"></div>
+
+        </div>
+        <div class="container clearfix">
+
+            <div id="section-redes" class="heading-block title-center page-section">
+                <h2>Redes</h2>
+                <span>Hola soy descripcion</span>
+            </div>
+
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="1200">
-                        <a href="#"><img src="public/images/icons/features/map.png" alt="Responsive Layout"></a>
+                    <div class="fbox-icon" data-animate="bounceIn">
+                        <a href="#"><img src="public/images/icons/database.png" alt="Responsive Layout"></a>
                     </div>
                     <h3>Responsive Layout</h3>
                     <p>Powerful Layout with Responsive functionality that can be adapted to any screen size. Resize browser to view.</p>
@@ -114,8 +127,8 @@ include_once 'public/headerUser.php';
 
             <div class="col_one_third">
                 <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="1400">
-                        <a href="#"><img src="public/images/icons/features/seo.png" alt="Retina Graphics"></a>
+                    <div class="fbox-icon" data-animate="bounceIn" data-delay="200">
+                        <a href="#"><img src="public/images/icons/smartphone.png" alt="Retina Graphics"></a>
                     </div>
                     <h3>Retina Graphics</h3>
                     <p>Looks beautiful &amp; ultra-sharp on Retina Screen Displays. Retina Icons, Fonts &amp; all others graphics are optimized.</p>
@@ -124,8 +137,8 @@ include_once 'public/headerUser.php';
 
             <div class="col_one_third col_last">
                 <div class="feature-box fbox-plain">
-                    <div class="fbox-icon" data-animate="bounceIn" data-delay="1600">
-                        <a href="#"><img src="public/images/icons/features/support.png" alt="Powerful Performance"></a>
+                    <div class="fbox-icon" data-animate="bounceIn" data-delay="400">
+                        <a href="#"><img src="public/images/icons/server.png" alt="Powerful Performance"></a>
                     </div>
                     <h3>Powerful Performance</h3>
                     <p>Canvas includes tons of optimized code that are completely customizable and deliver unmatched fast performance.</p>
@@ -134,46 +147,39 @@ include_once 'public/headerUser.php';
 
             <div class="clear"></div>
 
+            <div class="col_one_third">
+                <div class="feature-box fbox-plain">
+                    <div class="fbox-icon" data-animate="bounceIn" data-delay="600">
+                        <a href="#"><img src="public/images/icons/browser.png" alt="Responsive Layout"></a>
+                    </div>
+                    <h3>Endless Possibilities</h3>
+                    <p>You have complete easy control on each &amp; every element that provides endless customization possibilities.</p>
+                </div>
+            </div>
+
+            <div class="col_one_third">
+                <div class="feature-box fbox-plain">
+                    <div class="fbox-icon" data-animate="bounceIn" data-delay="800">
+                        <a href="#"><img src="public/images/icons/features/tick.png" alt="Retina Graphics"></a>
+                    </div>
+                    <h3>Light &amp; Dark Scheme</h3>
+                    <p>Change your Website's Primary Scheme instantly by simply adding the dark class to the body.</p>
+                </div>
+            </div>
+
+            <div class="col_one_third col_last">
+                <div class="feature-box fbox-plain">
+                    <div class="fbox-icon" data-animate="bounceIn" data-delay="1000">
+                        <a href="#"><img src="public/images/icons/features/tools.png" alt="Powerful Performance"></a>
+                    </div>
+                    <h3>Customizable Fonts</h3>
+                    <p>Use any Font you like from Google Web Fonts, Typekit or other Web Fonts. They will blend in perfectly.</p>
+                </div>
+            </div>
+
+            <div class="clear"></div>
+
             <div class="divider divider-short divider-center"><i class="icon-circle"></i></div>
-
-            <div id="section-pricing" class="heading-block title-center nobottomborder page-section">
-                <h2>Pricing Details</h2>
-                <span>Our All inclusive Pricing Plan that covers you well</span>
-            </div>
-
-            <div class="pricing-box pricing-extended bottommargin clearfix">
-
-                <div class="pricing-desc">
-                    <div class="pricing-title">
-                        <h3>How many Themes can you Download today?</h3>
-                    </div>
-                    <div class="pricing-features">
-                        <ul class="iconlist-color clearfix">
-                            <li><i class="icon-desktop"></i> Ultra Responsive Layouts</li>
-                            <li><i class="icon-eye-open"></i> Retina Ready Designs</li>
-                            <li><i class="icon-beaker"></i> Advanced Admin Panel</li>
-                            <li><i class="icon-magic"></i> Tons of Customization Options</li>
-                            <li><i class="icon-font"></i> Support for Custom Fonts</li>
-                            <li><i class="icon-stack3"></i> Premium Sliders Included</li>
-                            <li><i class="icon-file2"></i> Photoshop Source Files Included</li>
-                            <li><i class="icon-support"></i> 24x7 Priority Email Support</li>
-                        </ul>
-                    </div>
-                </div>
-
-                <div class="pricing-action-area">
-                    <div class="pricing-meta">
-                        As Low as
-                    </div>
-                    <div class="pricing-price">
-                        <span class="price-unit">&euro;</span>39<span class="price-tenure">monthly</span>
-                    </div>
-                    <div class="pricing-action">
-                        <a href="#" class="button button-3d button-large btn-block nomargin">Get Started</a>
-                    </div>
-                </div>
-
-            </div>
 
             <div class="clear"></div>
 
@@ -183,171 +189,90 @@ include_once 'public/headerUser.php';
 
             <div class="container clearfix">
 
-                <div id="section-testimonials" class="heading-block title-center page-section">
-                    <h2>Testimonials</h2>
-                    <span>Our All inclusive Pricing Plan that covers you well</span>
+                <div id="section-specs" class="heading-block title-center page-section">
+                    <h2>Perfil</h2>
+                    <span>Detalles del perfil</span>
                 </div>
 
-                <ul class="testimonials-grid grid-3 clearfix">
-                    <li>
-                        <div class="testimonial">
-                            <div class="testi-image">
-                                <a href="#"><img src="public/images/testimonials/1.jpg" alt="Customer Testimonails"></a>
-                            </div>
-                            <div class="testi-content">
-                                <p>Incidunt deleniti blanditiis quas aperiam recusandae consequatur ullam quibusdam cum libero illo rerum repellendus!</p>
-                                <div class="testi-meta">
-                                    John Doe
-                                    <span>XYZ Inc.</span>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="testimonial">
-                            <div class="testi-image">
-                                <a href="#"><img src="public/images/testimonials/2.jpg" alt="Customer Testimonails"></a>
-                            </div>
-                            <div class="testi-content">
-                                <p>Natus voluptatum enim quod necessitatibus quis expedita harum provident eos obcaecati id culpa corporis molestias.</p>
-                                <div class="testi-meta">
-                                    Collis Ta'eed
-                                    <span>Envato Inc.</span>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="testimonial">
-                            <div class="testi-image">
-                                <a href="#"><img src="public/images/testimonials/7.jpg" alt="Customer Testimonails"></a>
-                            </div>
-                            <div class="testi-content">
-                                <p>Fugit officia dolor sed harum excepturi ex iusto magnam asperiores molestiae qui natus obcaecati facere sint amet.</p>
-                                <div class="testi-meta">
-                                    Mary Jane
-                                    <span>Google Inc.</span>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="testimonial">
-                            <div class="testi-image">
-                                <a href="#"><img src="public/images/testimonials/3.jpg" alt="Customer Testimonails"></a>
-                            </div>
-                            <div class="testi-content">
-                                <p>Similique fugit repellendus expedita excepturi iure perferendis provident quia eaque. Repellendus, vero numquam?</p>
-                                <div class="testi-meta">
-                                    Steve Jobs
-                                    <span>Apple Inc.</span>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="testimonial">
-                            <div class="testi-image">
-                                <a href="#"><img src="public/images/testimonials/4.jpg" alt="Customer Testimonails"></a>
-                            </div>
-                            <div class="testi-content">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, perspiciatis illum totam dolore deleniti labore.</p>
-                                <div class="testi-meta">
-                                    Jamie Morrison
-                                    <span>Adobe Inc.</span>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="testimonial">
-                            <div class="testi-image">
-                                <a href="#"><img src="public/images/testimonials/8.jpg" alt="Customer Testimonails"></a>
-                            </div>
-                            <div class="testi-content">
-                                <p>Porro dolorem saepe reiciendis nihil minus neque. Ducimus rem necessitatibus repellat laborum nemo quod.</p>
-                                <div class="testi-meta">
-                                    Cyan Ta'eed
-                                    <span>Tutsplus</span>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
+                <div id="side-navigation">
 
-            </div>
+                    <div class="col_one_third">
 
-        </div>
+                        <ul class="sidenav">
+                            <li><a href="#snav-content1"><i class="icon-screen"></i>¿Qué es inform&aacute;tica empresarial?</a></li>
+                            <li><a href="#snav-content2"><i class="icon-magic"></i>Prop&oacute;sitos</i></a></li>
+                            <li><a href="#snav-content3"><i class="icon-tint"></i>Tareas típicas del estudiante de la carrera</a></li>
+                            <li><a href="#snav-content4"><i class="icon-gift"></i>Perfil profesional</a></li>
+                            <li><a href="#snav-content5"><i class="icon-adjust"></i>Light &amp; Dark Scheme</a></li>
+                        </ul>
 
-        <div class="container clearfix">
-
-            <div id="section-specs" class="heading-block title-center page-section">
-                <h2>Product Specifications</h2>
-                <span>Complete list of the Tech Specifications for your understanding</span>
-            </div>
-
-            <div id="side-navigation">
-
-                <div class="col_one_third">
-
-                    <ul class="sidenav">
-                        <li class="ui-tabs-active"><a href="#snav-content1"><i class="icon-screen"></i>Responsive Layout<i class="icon-chevron-right"></i></a></li>
-                        <li><a href="#snav-content2"><i class="icon-magic"></i>Retina Ready Display<i class="icon-chevron-right"></i></a></li>
-                        <li><a href="#snav-content3"><i class="icon-tint"></i>Unlimited Color Options<i class="icon-chevron-right"></i></a></li>
-                        <li><a href="#snav-content4"><i class="icon-gift"></i>Bootstrap 3.1 Compatible<i class="icon-chevron-right"></i></a></li>
-                        <li><a href="#snav-content5"><i class="icon-adjust"></i>Light &amp; Dark Scheme<i class="icon-chevron-right"></i></a></li>
-                    </ul>
-
-                </div>
-
-                <div class="col_two_third col_last">
-
-                    <div id="snav-content1">
-                        <h3>Ultra Responsive Template</h3>
-                        <img class="alignright img-responsive" src="public/images/landing/responsive.png" alt="">
-
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, ex, inventore, tenetur, repellat ipsam soluta libero amet nam aspernatur perspiciatis quos praesentium et debitis ea odit enim illo aliquid eligendi numquam neque. Ipsum, voluptatibus, perspiciatis a quam aliquid cumque cupiditate id ipsa tempora eveniet. Cupiditate, necessitatibus, consequatur odio. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, vitae, laboriosam libero nihil labore hic modi? Odit, veritatis nulla molestiae!
                     </div>
 
-                    <div id="snav-content2">
-                        <h3>Retina Ready Display</h3>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam, voluptatem reprehenderit natus facilis id deserunt iusto incidunt cumque odit molestias iste dolor eum esse soluta facere quidem minima in voluptate explicabo ducimus alias ratione aut molestiae omnis fuga labore quod optio modi voluptatum nemo suscipit porro maxime ex. Maiores, ratione eligendi labore quaerat veniam laborum nam rem delectus illum aspernatur quas sequi animi quae nulla alias hic inventore ex perspiciatis nisi consequatur enim a aut dolorum modi quod perferendis dicta impedit magni placeat repellat. Soluta, dicta, dolores, reiciendis, eum accusamus esse et debitis rem fugit fugiat dignissimos pariatur sint quod laborum autem. Nulla, ducimus, culpa, vel esse unde sapiente expedita corrupti consectetur veritatis quas autem laborum mollmquam amet eius. Numquam, ad, quaerat, ab, deleniti rem quae doloremque tenetur ea illum hic amet dolor suscipit porro ducimus excepturi perspiciatis modi praesentium voluptas quos expedita provident adipisci dolorem! Aliquam, ipsum voluptatem et voluptates impedit ab libero similique a. Nisi, ea magni et ab voluptatum nemo numquam odio quis libero aspernatur architecto tempore qui quisquam saepe corrupti necessitatibus natus quos aliquid non voluptatibus quod obcaecati fugiat quibusdam quidem inventore quia eveniet iusto culpa incidunt vero vel in accusamus eum. Molestiae nihil voluptate molestias illum eligendi esse nesciunt.
+                    <div class="col_two_third col_last">
+
+                        <div id="snav-content1" style="text-align: justify;">
+                            <h3>¿Qué es inform&aacute;tica empresarial?</h3>
+                            <img class="alignright img-responsive" src="public/images/landing/responsive.png" alt="">
+                            La carrera de Bachillerato en Informática empresarial forma profesionales con capacidad para el desarrollo y la administración de proyectos informáticos tendientes a organizar sistemas, recursos y finanzas en la empresa, al optimizar el  acceso, la sistematización y la organización de la información. Es una carrera que se ofrece sólo en sedes regionales.
+                        </div>
+
+                        <div id="snav-content2" style="text-align: justify;">
+                            <br>
+                            <h3>Prop&oacute;sitos</h3>
+                            Formar profesionales en el ámbito de la informática y la computación competentes para la administración y desarrollo de recursos informáticos, con una visión integral y un carácter propositivo, para el mejoramiento de la calidad de vida de la sociedad costarricense
+                            Formar profesionales que estén en la capacidad de coadyuvar en las transformaciones que la sociedad necesita
+                            Propiciar situaciones de aprendizaje que le permitan al estudiante concebir al ser humano en su dimensión integral como un ente productor.
+                            Fomentar un ambiente de aprendizaje interdisciplinario en el que se integren la computación, la informática y la administración
+                            Formar profesionales que ofrezcan sistemas de información integrales que faciliten el proceso de toma de decisiones en todos los niveles de la organización
+                            Ofrecer los espacios de aprendizaje necesarios para que los estudiantes tengan un acercamiento a su práctica, mediante el análisis de casos de la vida real, como medio de inserción al ámbito laboral
+                            Tareas típicas del estudiante de la carrera
+                        </div>
+
+                        <div id="snav-content3" style="text-align: justify;">
+                            <br>
+                            <h3>Tareas típicas del estudiante de la carrera</h3>
+                            <ol>
+                                <li>
+                                    Adquisición de conocimientos para el análisis cuantitativo en áreas como cálculo, algebra, estructuras discretas, análisis numérico, investigación de operaciones, probabilidad, estadística, economía y finanzas.
+                                </li>
+                                <li>
+                                    Desarrollo de sistemas de información al trabajar en todas las etapas del proceso: planificación, diseño, programación y pruebas.
+                                </li>
+                                <li>
+                                    Análisis de modelos informáticos aplicables a las actividades de las empresas.
+                                </li>
+                                <li>
+                                    Prácticas de administración de los recursos informáticos: sistemas operativos, redes, bases de datos, usuarios, desarrolladores, otros.
+                                </li>
+                                <li>
+                                    Participación en trabajos de investigación, prácticas en empresas y trabajo comunal universitario.
+                                </li>
+                            </ol>
+                        </div>
+
+                        <div id="snav-content4" style="text-align: justify;">
+                            <br>
+                            <h3>Perfil profesional</h3>
+                            <ol>
+                                <li>
+                                    La formación del informático empresarial se construye a partir de tres áreas de conocimiento: la computación, la informática y la administración, con el apoyo de la matemática, la estadística y la lógica, teniendo como ejes conductores la ética y el humanismo.
+                                </li>
+                                <li>
+                                    Este profesional está capacitado para analizar, diseñar y programar sistemas utilizando tecnología de punta; así como para la planificación, control y dirección de la gestión informática en la empresa o institución. Está capacitado para tomar parte activa en trabajos complejos y para dirigir investigaciones multidisciplinarias aplicadas.
+                                </li>
+                                <li>
+                                    Los concomimientos en el área de administración de los recursos informáticos le permitirán mantener un mejor acercamiento a la organización e identificar la manera óptima de aplicar la informática para apoyar su funcionamiento. Estará así, en capacidad de utilizar las herramientas computacionales que le permitan modelar los procesos empresariales y ayudar en la toma de decisiones.
+                                </li>
+                            </ol>
+                        </div>
+
+                        <div id="snav-content5" style="text-align: justify;">
+                            <br>
+                            <h3>Light &amp; Dark Scheme Available</h3>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, temporibus, maxime, laudantium quidem sapiente deserunt error rerum illum explicabo voluptate velit tempora cupiditate reprehenderit consequuntur nemo in et blanditiis soluta tempore perspiciatis at atque excepturi culpa facere sequi impedit cumque illo molestias saepe eveniet ducimus fugiat reiciendis unde. Modi, at laboriosam ex velit commodi officiis! Neque, consequatur, modi, nulla, voluptatem quibusdam incidunt minus dolores repellat nihil consectetur ducimus aliquid. Eaque, tempora voluptatum accusantium expedita obcaecati magnam voluptates consequatur ut harum rem dolor id error. Officia, repudiandae, eos, quibusdam porro eius esse cupiditate non fugit dignissimos delectus et tempora sequi fugiat quo voluptatem temporibus vel obcaecati? Laboriosam, quis obcaecati quas veniam repellendus officiis et quos velit id natus mollitia dacilis ipsum et perspiciatis officia iste cupiditate ducimus nisi consequuntur excepturi dolorum. Sint, architecto, cumque facere officia harum dicta perferendis inventore excepturi sequi explicabo provident omnis dolore quasi fugit molestiae atque id consectetur reprehenderit laborum beatae consequatur similique.
+                        </div>
+
                     </div>
-
-                    <div id="snav-content3">
-                        <img class="alignleft img-responsive" src="http://www.w3schools.com/tags/colormap.gif" alt="">
-                        <h3>Unlimited Color Options</h3>Dolor aperiam modi aliquam dolores consequatur error commodi ad eius incidunt! Libero, odio incidunt ullam sunt fugiat? Laboriosam, perferendis, debitis, harum soluta iste eos sunt odit architecto porro eveniet sint optio nihil animi. Laudantium, quam, culpa, velit molestias exercitationem reprehenderit enim distinctio aliquam aut ex numquam sequi assumenda veritatis fuga voluptatum. Magni, voluptates adipisci unde sapiente eligendi ea maxime tempora pariatur ipsa.. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae, aspernatur, saepe, quidem animi hic rem libero earum fuga voluptas culpa iure qui accusantium ab quae dolorum laborum quia repellat fugit aut minima molestias placeat mollitia doloribus quibusdam consectetur officia nesciunt ad. Ab, quod ipsum commodi assumenda doloribus possimus sed laudantium.Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    </div>
-
-                    <div id="snav-content4">
-                        <img class="alignleft img-responsive" src="public/images/landing/bootstrap.png" alt="">
-                        <h3>Bootstrap v3.2.0 Compatiable</h3>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis, nostrum, dolores id quo nam repudiandae ad culpa architecto minima nemo eaque soluta nulla laborum neque provident saepe facilis expedita numquam quas alias in perferendis accusamus ipsam blanditiis sit voluptatem temporibus vero error veritatis repellat eos reiciendis repellendus quam. Officia dicta ipsam nostrum aperiam. Dolor, expedita enim modi nostrum commodi sint architecto aliquam aut mollitia repellendus deserunt quaerat aspernatur aperiam voluptatibus consequatur rerum consequuntur.
-                    </div>
-
-                    <div id="snav-content5">
-                        <h3>Light &amp; Dark Scheme Available</h3>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, temporibus, maxime, laudantium quidem sapiente deserunt error rerum illum explicabo voluptate velit tempora cupiditate reprehenderit consequuntur nemo in et blanditiis soluta tempore perspiciatis at atque excepturi culpa facere sequi impedit cumque illo molestias saepe eveniet ducimus fugiat reiciendis unde. Modi, at laboriosam ex velit commodi officiis! Neque, consequatur, modi, nulla, voluptatem quibusdam incidunt minus dolores repellat nihil consectetur ducimus aliquid. Eaque, tempora voluptatum accusantium expedita obcaecati magnam voluptates consequatur ut harum rem dolor id error. Officia, repudiandae, eos, quibusdam porro eius esse cupiditate non fugit dignissimos delectus et tempora sequi fugiat quo voluptatem temporibus vel obcaecati? Laboriosam, quis obcaecati quas veniam repellendus officiis et quos velit id natus mollitia dacilis ipsum et perspiciatis officia iste cupiditate ducimus nisi consequuntur excepturi dolorum. Sint, architecto, cumque facere officia harum dicta perferendis inventore excepturi sequi explicabo provident omnis dolore quasi fugit molestiae atque id consectetur reprehenderit laborum beatae consequatur similique.
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-        <div class="section footer-stick">
-
-            <div class="container clearfix">
-
-                <div id="section-buy" class="heading-block title-center nobottomborder page-section">
-                    <h2>Enough? Start Building!</h2>
-                    <span>Now that you have read all the Tid-Bits, so start with a plan</span>
-                </div>
-
-                <div class="center">
-
-                    <a href="#" data-animate="tada" class="button button-3d button-teal button-xlarge nobottommargin"><i class="icon-star3"></i>Start your FREE Trial</a> - OR - <a href="#" data-scrollto="#section-pricing" class="button button-3d button-red button-xlarge nobottommargin"><i class="icon-user2"></i>Sign Up for a Subscription</a>
 
                 </div>
 
