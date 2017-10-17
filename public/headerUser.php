@@ -67,7 +67,7 @@
                                 <li><a href="#" data-href="#section-redes"><div>Redes</div></a></li>
                                 <li><a href="#" data-href="#section-prog"><div>Programaci&oacute;n</div></a></li>
                                 <li><a href="#" data-href="#section-perf"><div>Perfil de Carrera</div></a></li>
-                                <li><a href="?controller=User&action=signOff" ><div>Cerrar Sesi&oacute;n</div></a></li>
+                                <!--<li><a href="?controller=User&action=signOff" ><div>Cerrar Sesi&oacute;n</div></a></li>-->
                             </ul>
 
                         </nav><!-- #primary-menu end -->

@@ -244,11 +244,12 @@ include_once 'public/headerUser.php';
                     <div class="col_one_third">
 
                         <ul class="sidenav">
-                            <li><a href="#snav-content1"><i class="icon-screen"></i>¿Qué es inform&aacute;tica empresarial?</a></li>
-                            <li><a href="#snav-content2"><i class="icon-magic"></i>Prop&oacute;sitos</i></a></li>
-                            <li><a href="#snav-content3"><i class="icon-tint"></i>Tareas típicas del estudiante de la carrera</a></li>
-                            <li><a href="#snav-content4"><i class="icon-gift"></i>Perfil profesional</a></li>
-                            <li><a href="#snav-content5"><i class="icon-adjust"></i>Light &amp; Dark Scheme</a></li>
+                            <li><a href="#snav-content1"><i class="icon-screen"></i>¿Qu&eacute; es inform&aacute;tica empresarial?</a></li>
+                            <li><a href="#snav-content2"><i class="icon-certificate"></i>Prop&oacute;sitos</i></a></li>
+                            <li><a href="#snav-content3"><i class="icon-code"></i>Tareas t&iacute;picas del estudiante de la carrera</a></li>
+                            <li><a href="#snav-content4"><i class="icon-book"></i>Perfil profesional</a></li>
+                            <li><a href="#snav-content5"><i class="icon-buffer"></i>Habilidades de los estudiantes</a></li>
+                            <li><a href="#snav-content6"><i class="icon-dashboard"></i>Aptitudes deseables</a></li>
                         </ul>
 
                     </div>
@@ -258,19 +259,35 @@ include_once 'public/headerUser.php';
                         <div id="snav-content1" style="text-align: justify;">
                             <h3>¿Qué es inform&aacute;tica empresarial?</h3>
                             <img class="alignright img-responsive" src="public/images/landing/responsive.png" alt="">
-                            La carrera de Bachillerato en Informática empresarial forma profesionales con capacidad para el desarrollo y la administración de proyectos informáticos tendientes a organizar sistemas, recursos y finanzas en la empresa, al optimizar el  acceso, la sistematización y la organización de la información. Es una carrera que se ofrece sólo en sedes regionales.
+                            La carrera de Bachillerato en Inform&aacute;tica empresarial forma profesionales con capacidad para el desarrollo y la administraci&oacute;n de proyectos inform&aacute;ticos tendientes a organizar sistemas, recursos y finanzas en la empresa, al optimizar el  acceso, la sistematizaci&oacute;n y la organizaci&oacute;n de la informaci&oacute;n. Es una carrera que se ofrece s&oacute;lo en sedes regionales.
                         </div>
 
                         <div id="snav-content2" style="text-align: justify;">
                             <br>
                             <h3>Prop&oacute;sitos</h3>
-                            Formar profesionales en el ámbito de la informática y la computación competentes para la administración y desarrollo de recursos informáticos, con una visión integral y un carácter propositivo, para el mejoramiento de la calidad de vida de la sociedad costarricense
-                            Formar profesionales que estén en la capacidad de coadyuvar en las transformaciones que la sociedad necesita
-                            Propiciar situaciones de aprendizaje que le permitan al estudiante concebir al ser humano en su dimensión integral como un ente productor.
-                            Fomentar un ambiente de aprendizaje interdisciplinario en el que se integren la computación, la informática y la administración
-                            Formar profesionales que ofrezcan sistemas de información integrales que faciliten el proceso de toma de decisiones en todos los niveles de la organización
-                            Ofrecer los espacios de aprendizaje necesarios para que los estudiantes tengan un acercamiento a su práctica, mediante el análisis de casos de la vida real, como medio de inserción al ámbito laboral
-                            Tareas típicas del estudiante de la carrera
+                            <ol>
+                                <li>
+                                    Formar profesionales en el &aacute;mbito de la inform&aacute;tica y la computaci&oacute;n competentes para la administraci&oacute;n y desarrollo de recursos inform&aacute;ticos, con una visión integral y un carácter propositivo, para el mejoramiento de la calidad de vida de la sociedad costarricense
+                                </li>
+                                <li>
+                                    Formar profesionales que est&eacute;n en la capacidad de coadyuvar en las transformaciones que la sociedad necesita.
+                                </li>
+                                <li>
+                                    Propiciar situaciones de aprendizaje que le permitan al estudiante concebir al ser humano en su dimensi&oacute;n integral como un ente productor.
+                                </li>
+                                <li>
+                                    Fomentar un ambiente de aprendizaje interdisciplinario en el que se integren la computaci&oacute;n, la inform&aacute;tica y la administraci&oacute;n.
+                                </li>
+                                <li>
+                                    Formar profesionales que ofrezcan sistemas de información integrales que faciliten el proceso de toma de decisiones en todos los niveles de la organizaci&oacute;n.
+                                </li>
+                                <li>
+                                    Ofrecer los espacios de aprendizaje necesarios para que los estudiantes tengan un acercamiento a su pr&aacute;ctica, mediante el an&aacute;lisis de casos de la vida real, como medio de inserci&oacute;n al &aacute;mbito laboral.
+                                </li>
+                                <li>
+                                    Tareas típicas del estudiante de la carrera 
+                                </li>
+                            </ol>
                         </div>
 
                         <div id="snav-content3" style="text-align: justify;">
@@ -313,8 +330,75 @@ include_once 'public/headerUser.php';
 
                         <div id="snav-content5" style="text-align: justify;">
                             <br>
-                            <h3>Light &amp; Dark Scheme Available</h3>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas, temporibus, maxime, laudantium quidem sapiente deserunt error rerum illum explicabo voluptate velit tempora cupiditate reprehenderit consequuntur nemo in et blanditiis soluta tempore perspiciatis at atque excepturi culpa facere sequi impedit cumque illo molestias saepe eveniet ducimus fugiat reiciendis unde. Modi, at laboriosam ex velit commodi officiis! Neque, consequatur, modi, nulla, voluptatem quibusdam incidunt minus dolores repellat nihil consectetur ducimus aliquid. Eaque, tempora voluptatum accusantium expedita obcaecati magnam voluptates consequatur ut harum rem dolor id error. Officia, repudiandae, eos, quibusdam porro eius esse cupiditate non fugit dignissimos delectus et tempora sequi fugiat quo voluptatem temporibus vel obcaecati? Laboriosam, quis obcaecati quas veniam repellendus officiis et quos velit id natus mollitia dacilis ipsum et perspiciatis officia iste cupiditate ducimus nisi consequuntur excepturi dolorum. Sint, architecto, cumque facere officia harum dicta perferendis inventore excepturi sequi explicabo provident omnis dolore quasi fugit molestiae atque id consectetur reprehenderit laborum beatae consequatur similique.
+                            <h3>Habilidades de los estudiantes</h3>
+                            <ol>
+                                <li>
+                                    Facilidad para el trabajo con material cuantitativo, en especial para el razonamiento l&oacute;gico matem&aacute;tico.
+                                </li>
+                                <li>
+                                    Inter&eacute;s por los continuos cambios en las tecnolog&iacute;as de la informaci&oacute;n.
+                                </li>
+                                <li>
+                                    Facilidad para comunicar a otros informaci&oacute;n t&eacute;cnica.
+                                </li>
+                                <li>
+                                    Seguro de s&iacute; mismo, con iniciativa y dispuesto a tomar decisiones ante los retos que se le presenten.
+                                </li>
+                                <li>
+                                    Disposici&oacute;n para el trabajo en grupo y cualidades de liderazgo que permitan crear un ambiente adecuado para el logro de las metas propuestas.
+                                </li>
+                                <li>
+                                    Inter&eacute;s por comprender las diversas labores que se realizan en las empresas: direcci&oacute;n, producci&oacute;n, finanzas, mercadeo, etc.
+                                </li>
+                                <li>
+                                    Sensibilidad social y facilidad para la comunicación oral y escrita.        
+                                </li>
+                            </ol>
+                        </div>
+                        <div id="snav-content5" style="text-align: justify;">
+                            <br>
+                            <h3>Aptitudes deseables</h3>
+                            <ol>
+                                <li>
+                                    Crítico
+                                </li>
+                                <li>
+                                    Capaz de trabajar bajo presi&oacute;n.
+                                </li>
+                                <li>
+                                    Voluntad para resolver problemas en el corto plazo.
+                                </li>
+                                <li>
+                                    Investigador.
+                                </li>
+                                <li>
+                                    Responsable.
+                                </li>
+                                <li>
+                                    Ordenado.
+                                </li>
+                                <li>
+                                    Capaz de adaptarse al cambio.        
+                                </li>
+                                <li>
+                                    Capaz de razonar en forma anal&iacute;tica.        
+                                </li>
+                                <li>
+                                    Innovador.
+                                </li>
+                                <li>
+                                    Poseer sensibilidad social.
+                                </li>
+                                <li>
+                                    Habilidad para trabajar en equipos.
+                                </li>
+                                <li>
+                                    Capacidad para identificar &aacute;reas funcionales.
+                                </li>
+                                <li>
+                                    Mercado laboral.
+                                </li>
+                            </ol>
                         </div>
 
                     </div>
