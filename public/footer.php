@@ -16,7 +16,7 @@
 
                 <div class="clear"></div>
 
-                <i class="icon-envelope2"></i> musica@fusionacademiacr.com <span class="middot">&middot;</span> <i class="icon-headphones"></i> 8326-1731 ó 8545-0829 <span class="middot">&middot;</span> <i class="icon-facebook"></i> fusionacademiacr
+                <i class="icon-envelope2"></i> CORREO PARA DUDAS <span class="middot">&middot;</span> <i class="icon-facebook"></i> FACEBOOK
             </div>
 
         </div>

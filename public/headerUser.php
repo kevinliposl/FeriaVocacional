@@ -67,10 +67,10 @@
 
                             <ul class="one-page-menu">
                                 <li class="current"><a href="#" data-href="#header"><div>Inicio</div></a></li>
-                                <li><a href="#" data-href="#section-features"><div>Features</div></a></li>
+                                <li><a href="#" data-href="#section-web"><div>Web</div></a></li>
                                 <li><a href="#" data-href="#section-redes"><div>Redes</div></a></li>
-                                <li><a href="#" data-href="#section-testimonials"><div>Testimonials</div></a></li>
-                                <li><a href="#" data-href="#section-specs"><div>Specifications</div></a></li>
+                                <li><a href="#" data-href="#section-prog"><div>Programaci&oacute;n</div></a></li>
+                                <li><a href="#" data-href="#section-perf"><div>Perfil de Carrera</div></a></li>
                                 <li><a href="?controller=User&action=signOff" ><div>Cerrar Sesi&oacute;n</div></a></li>
                             </ul>
 
