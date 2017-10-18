@@ -17,39 +17,6 @@ class IndexController {
     function login() {
         $this->view->show("loginView.php");
     }
-
-    function galery() {
-        $this->view->show("galeryView.php");
-    }
-
-    function contact() {
-        $this->view->show("contactView.php");
-    }
-
-    function aboutus() {
-        $this->view->show("aboutView.php");
-    }
-
-    function instruments() {
-        $this->view->show("coursesView.php");
-    }
-
-    function profesors() {
-        $this->view->show("coursesView.php");
-    }
-
-    function ejemploProfesor() {
-        $this->view->show("profileProfesorView.php");
-    }
-
-    function val() {
-        $this->view->show("pruebaValidacion.php");
-    }
-
-    function report() {
-        $this->view->show("reportView.php");
-    }
-
 }
 
 // fin clase

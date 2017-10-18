@@ -291,7 +291,7 @@ include_once 'public/headerUser.php';
                                 </li>
                             </ol>
                         </div>
-                        <div id="snav-content5" style="text-align: justify;">
+                        <div id="snav-content6" style="text-align: justify;">
                             <br>
                             <h3>Aptitudes deseables</h3>
                             <ol>
