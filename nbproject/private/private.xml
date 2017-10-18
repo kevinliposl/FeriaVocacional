@@ -3,7 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/FeriaVocacional/view/indexView.php</file>
+            <file>file:/C:/xampp/htdocs/FeriaVocacional/public/footer.php</file>
+            <file>file:/C:/xampp/htdocs/FeriaVocacional/controller/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/FeriaVocacional/controller/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/FeriaVocacional/libs/configuration.php</file>
         </group>
     </open-files>
 </project-private>

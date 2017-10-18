@@ -33,6 +33,12 @@
 
 <!-- Footer Scripts
 ============================================= -->
+
+<!-- Charts JavaScripts
+============================================= -->
+<script src="public/js/Chart.bundle.min.js" type="text/javascript"></script>
+<script src="public/js/utils.js" type="text/javascript"></script>
+
 <script src="public/js/jquery.js" type="text/javascript"></script>
 <script src="public/js/plugins.js" type="text/javascript"></script>
 <script src="public/js/functions.js" type="text/javascript"></script>
